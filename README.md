@@ -19,24 +19,25 @@
 - Building LLM-powered applications, RAG pipelines, and solid backend APIs
 - Enthusiastic open-source contributor with LLM fine-tuning experience and published works in computational science
 
-## 🌱 Currently Learning
+## 🎯 Currently Learning
 - German language
 - React for frontend development
 - DevOps practices
 
-## 📚 What Keeps Me Sharp
+## 🧠 What Keeps Me Sharp
 - Following Generative AI, agentic AI, new protocols and tools
 - Solving competitive programming problems on LeetCode and HackerRank
 - Debugging and improving systems daily
 
-## 👯 Looking to Collaborate
+## 🤝 Looking to Collaborate
 - Hackathons and genuine open-source projects
 - Interesting AI, backend, or full-stack work
 
-## 🤝 Open For
-- Freelancing opportunities in AI applications, LLM systems, RAG pipelines, and production APIs
+## 💬 Open For
+- Freelancing opportunities across AI applications, LLM systems, RAG pipelines, production APIs, websites, and web apps; ready to take projects from concept to fully deployed, end-to-end solutions
 
-## Publications
-I have contributed to 4 published works focused on NLP, data quality, statistical analysis, and computational social science.
-
----
+## 📄 Publications
+I have contributed to 3 published works focused on NLP, data quality, statistical analysis, and computational social science.
+- [Die KODAQS-Tools – A new resource for assessing the quality of research data](https://link.springer.com/article/10.1007/s11616-026-00941-x)
+- [Tools – Indicators – Metrics: Data Quality in Computational Social Science](https://blog.gesis.org/tools-indicators-metrics-data-quality-in-computational-social-science/) - GESIS Blog, Dec. 2024
+- [TextPrep – Comparing Tools and Workflows for Data Quality in Basic Text Preprocessing with R](https://kodaqs-toolbox.gesis.org/github.com/YannikPeters/DQ_Tool_TextPreprocessing/index/) - Peters, Yannik & Kunjan Shah, Dec. 2024

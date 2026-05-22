@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=kunjanshah0811&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" width="49%" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api?username=kunjanshah0811&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged" width="49%" height="195" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kunjanshah0811&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" height="195" />
 </p>
 

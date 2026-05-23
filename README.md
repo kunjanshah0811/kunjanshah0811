@@ -5,7 +5,12 @@
 ![](https://komarev.com/ghpvc/?username=kunjanshah0811&icon=0&color=0077B5)
 
 ## 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunjanshah811/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kkshah0811@gmail.com)
+<a href="https://www.linkedin.com/in/kunjanshah811/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kkshah0811@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
 
 ## 📊 GitHub Stats
 
